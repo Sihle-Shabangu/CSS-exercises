@@ -1,20 +1,18 @@
 *{
     background-color: black;
 }
-
+div{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 50px;
+    text-align: center;
+    color: #f1f1f1;
+    font-family: 'Libre Baskerville', serif;
+}
 img{
     width: 100%;
+    font-size: 2rem;
 }
 h1{
-    text-align: center;
-    font-size: 50px;
-    color: #f1f1f1;
-    margin-top: 50px;
-    font-family: 'Libre Baskerville', serif;
-}
-p{
-    text-align: center;
-    /* font-size: 20px; */
-    color: #f1f1f1;
-    font-family: 'Libre Baskerville', serif;
+    text-transform: uppercase;
 }
